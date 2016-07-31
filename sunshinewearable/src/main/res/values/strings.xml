@@ -1,0 +1,10 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">SunshineWearable</string>
+    <string name="format_temperature"><xliff:g id="temp">%1.0f</xliff:g>\u00B0</string>
+    <string name="watchface_name">Sunshine Digital</string>
+    <string name="alert_path">/path/alert</string>
+    <string name="weather_path">/weather</string>
+    <string name="min_temp_key">MIN_TEMP</string>
+    <string name="max_temp_key">MAX_TEMP</string>
+    <string name="icon_key">ICON</string>
+</resources>
